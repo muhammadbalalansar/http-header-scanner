@@ -8,7 +8,7 @@
 ```
 
 
-By Muhammad Balal Ansar (Cyber Security Expert)
+**By Muhammad Balal Ansar (Cyber Security Expert)**
 
 
 [![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Foundations-red?style=flat&logo=github)](https://github.com/CarterPerez-dev/Cybersecurity-Projects/tree/main/PROJECTS/foundations/http-headers-scanner)
