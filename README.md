@@ -169,5 +169,4 @@ Once you understand how this scanner makes decisions, those tools become readabl
 - [`PROJECTS/advanced/bug-bounty-platform`](../../advanced/bug-bounty-platform), what a serious web-security tool looks like once it grows up.
 
 ## License
-
 AGPL 3.0
