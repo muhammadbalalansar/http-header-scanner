@@ -170,4 +170,5 @@ Once you understand how this scanner makes decisions, those tools become readabl
 
   
 ## License
+
 AGPL 3.0
