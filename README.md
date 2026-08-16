@@ -162,7 +162,6 @@ This scanner is a teaching-scale version of tools that do the same job at produc
 Once you understand how this scanner makes decisions, those tools become readable instead of magical. The [04-CHALLENGES.md](learn/04-CHALLENGES.md) module includes ideas for growing this project toward what Observatory does.
 
 ## See Also
-
 - [`PROJECTS/foundations/hash-identifier`](../hash-identifier), the easier foundations project, pure logic and no network at all.
 - [`PROJECTS/foundations/password-manager`](../password-manager), the hardest foundations project, covers Argon2id, AES-GCM, and on-disk vaults.
 - [`PROJECTS/advanced/bug-bounty-platform`](../../advanced/bug-bounty-platform), what a serious web-security tool looks like once it grows up.
