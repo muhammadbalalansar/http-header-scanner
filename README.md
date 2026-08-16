@@ -27,6 +27,7 @@
 > [!NOTE]
 > **Foundations tier**, this project is built for someone who has never written Python before. The source code is heavily commented as a teaching aid, the `learn/` folder explains every concept from zero, and the whole tool is one readable file. If you already know Python, the natural next step is [`PROJECTS/foundations/password-manager`](../password-manager), the hardest foundations project, which adds Argon2id, AES-GCM, and on-disk state.
 
+
 ## What It Does
 
 - Performs one polite HTTPS request to the URL you provide and inspects the response headers
