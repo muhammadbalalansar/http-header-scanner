@@ -21,6 +21,7 @@
 
 > Fetch a URL once and grade its HTTP security headers A through F using the same weighted-rubric model as Mozilla Observatory.
 
+
 *This is a quick overview, security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
 > [!NOTE]
