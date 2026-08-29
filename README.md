@@ -161,6 +161,7 @@ This scanner is a teaching-scale version of tools that do the same job at produc
 
 - **[Mozilla Observatory](https://observatory.mozilla.org/)**, the canonical version. Same weighted-rubric approach, deeper CSP analysis, cookie checks, TLS configuration grading.
 - **[securityheaders.com](https://securityheaders.com)**, simpler UI, same idea.
+- 
 - **[nmap http-security-headers script](https://nmap.org/nsedoc/scripts/http-security-headers.html)**, for command-line workflows.
 
 Once you understand how this scanner makes decisions, those tools become readable instead of magical. The [04-CHALLENGES.md](learn/04-CHALLENGES.md) module includes ideas for growing this project toward what Observatory does.
