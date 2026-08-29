@@ -20,6 +20,7 @@
 [![Lint](https://img.shields.io/badge/lint-ruff%20%2B%20mypy%20%2B%20pylint-D7FF64?style=flat)](https://github.com/astral-sh/ruff)
 [![HTTP Client](https://img.shields.io/badge/httpx-0.28+-1f5582?style=flat)](https://www.python-httpx.org/)
 
+
 > Fetch a URL once and grade its HTTP security headers A through F using the same weighted-rubric model as Mozilla Observatory.
 
 
