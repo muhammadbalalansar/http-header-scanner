@@ -110,7 +110,7 @@ just run -- http://neverssl.com
 
 Followed by a `Recommendations:` block for every non-`ok` finding, with the exact header value to add.
 
-## Exit Codes
+## Exit Codes :
 
 The scanner returns shell-friendly exit codes so you can wire it into CI:
 
