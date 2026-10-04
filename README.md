@@ -84,7 +84,7 @@ just run -- http://neverssl.com
 > [!IMPORTANT]
 > Always include the `http://` or `https://` scheme. The scanner refuses bare hostnames like `github.com` because it cannot guess which scheme you meant, and guessing wrong is exactly the SSL-stripping problem HSTS exists to prevent.
 
-## Sample Output
+## Sample Output:
 
 ```
                   Headers for https://github.com/ (HTTP 200)
