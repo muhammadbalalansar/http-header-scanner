@@ -36,7 +36,7 @@
 - Prints a colored Rich table plus a grade panel plus a recommendation list for every non-`ok` finding
 - Returns meaningful exit codes: `0` for A/B, `1` for C/D, `2` for F or network error, useful in CI pipelines
 
-## The Headers It Grades
+## The Headers It Grades:
 
 | Header | Severity | What it stops |
 |---|---|---|
