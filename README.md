@@ -140,7 +140,7 @@ just run -- <url>  # scan a URL
 
 No compilers, no system libraries. The project is one Python file plus tests.
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation, written for someone who has never touched Python before.
 
