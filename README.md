@@ -152,7 +152,7 @@ This project includes step-by-step learning materials covering security theory, 
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Function-by-function walkthrough, every Python feature explained when first encountered, plus test patterns and tooling |
 | [04 - Challenges](learn/04-CHALLENGES.md) | Twelve extension ideas, from "add a seventh header rule" up through "wrap it in a FastAPI service with rate limiting" |
 
-## Real-World Context
+## Real-World Context:
 
 This scanner is a teaching-scale version of tools that do the same job at production scale:
 
