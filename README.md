@@ -154,7 +154,7 @@ This project includes step-by-step learning materials covering security theory, 
 
 ## Real-World Context:
 
-This scanner is a teaching-scale version of tools that do the same job at production scale:
+This scanner is a teaching-scale version of tools that do the same job at production scale:.
 
 - **[Mozilla Observatory](https://observatory.mozilla.org/)**, the canonical version. Same weighted-rubric approach, deeper CSP analysis, cookie checks, TLS configuration grading.
 - **[securityheaders.com](https://securityheaders.com)**, simpler UI, same idea.
