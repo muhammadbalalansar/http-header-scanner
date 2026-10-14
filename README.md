@@ -131,7 +131,7 @@ just format     # yapf
 just run -- <url>  # scan a URL
 ```
 
-## Requirements
+## Requirements:
 
 - **Python 3.13+**, the install script will check.
 - [`uv`](https://github.com/astral-sh/uv), modern Python package manager (auto-installed by `./install.sh`).
